@@ -16,3 +16,6 @@ $$ \text{RMSLE} = \sqrt{ \frac{1}{n} \sum_{i = 1}^{n} (\log(y_{i} + 1) - (\log(\
 
 Essa métrica é comum de ser usada quando estamos lidando com modelos de regressão sendo a variável target (ou y) em uma escala relativamente grande. 
 
+## 4. Fluxo de análise
+
+![text](/03-images/fluxo_analise.png)
